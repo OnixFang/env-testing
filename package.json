@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A test project for .env file testing and configuration.",
   "main": "app.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node -r dotenv/config app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OnixFang/env-testing.git"
