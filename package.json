@@ -1,0 +1,17 @@
+{
+  "name": "env-testing",
+  "version": "1.0.0",
+  "description": "A test project for .env file testing and configuration.",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnixFang/env-testing.git"
+  },
+  "author": "OnixFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnixFang/env-testing/issues"
+  },
+  "homepage": "https://github.com/OnixFang/env-testing#readme"
+}
