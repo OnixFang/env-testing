@@ -4,7 +4,8 @@
   "description": "A test project for .env file testing and configuration.",
   "main": "app.js",
   "scripts": {
-    "start": "node -r dotenv/config app.js"
+    "dev": "node -r dotenv/config app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
